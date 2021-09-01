@@ -1,0 +1,28 @@
+Q.1 Total number of companies in each state. 
+Q.2 Total number of companies of each status. --works
+Q.3 Total number of companies in each company class.
+Q.4 Total number of companies in each of Principal Business Activities.
+Q.5 Total number of companies registered every year.
+Q.6 Details of duplicate company names or companies registered more than once.
+Q.7 Which are Top 50 oldest companies?
+Q.8 Number of companies registered between 1990-2010,2000-2010,2010-2020.
+Q.9 List all the private companies which are active in Delhi or Karnataka and has authorized capital greater than 3,00,00,000 INR.
+Q.10 List all the public companies which are under liquidation or liquidated in India and belong to State-govt or Union Govt registered after 1985
+Q.11 LIST THE NUMBER OF THE COMPANIES AND COMPANY CLASS WHICH ARE ACTIVE IN DIFFERENT STATES IN 2020.
+Q.12 LIST ALL THE PRIVATE COMPANIES WHICH WERE REGISTERED IN MUMBAI REGISTRAR OFFICE AND ARE VANISHED.
+Q.13 LIST 50 RECENTLY REGISTERED COMPANIES. 
+Q.14 LIST THE PRIVATE(ONE PERSON COMPANY) COMPANIES AND EMAIL ADDRESS OF ITS OWNER REGISTERED IN MUMBAI OR DELHI ROC.
+Q.15 LIST ALL THE COMPANIES WHOSE PAIDUP CAPITAL IS GREATER THAN AUTHORIZED CAPITAL.
+Q.16 LIST ALL THE PRIVATE (ONE PERSON COMPANY) COMPANIES WHOSE PAID UP CAPITAL IS GREATER THAN 1,00,00,000 INR.
+Q.17 LIST THE STATE-GOVT COMPANIES BELONGING TO GUJARAT AND KARNATAKA .
+Q.18 LIST THE NUMBER OF OIL COMPANIES IN EACH COMPANY CLASS EVERY YEAR.
+Q.19 LIST ALL PRIVATE(ONE PERSON COMPANY) COMPANIES WHICH ARE DORMANT UNDER SECTION 455.
+Q.20 LIST THE COMPANIES FROM TAMIL NADU , WEST BENGAL, DELHI WHICH ARE SUBSIDIARIES OF FOREIGN COMPANY.
+Q.21 Number of companies which are subsidiaries of foreign company registered every year
+
+
+
+
+
+ 
+

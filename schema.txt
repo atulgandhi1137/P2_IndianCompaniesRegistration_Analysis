@@ -1,0 +1,58 @@
+Columns
+CORPORATE_ IDENTIFICATION_NUMBER - Corporate Identification Number sometimes referred to as CIN is a unique identification number which is assigned by the ROC (Registrar of Companies) of various states under the MCA (Ministry of Corporate Affairs).
+
+COMPANY_NAME - Name of the company.
+
+COMPANY_STATUS - The 'Status' tell the current state of the company. Whether it is active and operating or dormant or it has been struck off and closed. There are 13 such status that a company could be carrying.
+
+ACTV - Active
+NAEF - Not available for e-filing
+ULQD - Under liquidation
+AMAL - Amalgamated
+STOF - Strike off
+DISD - Dissolved
+CLLD - Converted to LLP and Dissolved
+UPSO - Under process of Striking Off
+CLLP - Converted to LLP
+LIQD - Liquidated
+DRMT - Dormant
+MLIQ - Vanished
+D455 - Dormant under section 455
+COMPANY_CLASS - Companies are primarily classified into private and public. Private companies or private limited companies are those companies that are closely-held and have less than 200 shareholders. Public companies are limited companies that have more than 200 shareholders and are listed on a stock exchange.
+
+Public
+Private
+Private (One Person Company)
+COMPANY_CATEGORY - The category of the company.
+
+Company limited by Shares
+Company Limited by Guarantee
+Unlimited Company
+COMPANY_SUB _CATEGORY - The sub-category of the company.
+
+Non-govt company
+State Govt company
+Subsidiary of Foreign Company
+Guarantee and Association comp
+Union Govt company
+DATEOF REGISTRATION - Date of registration of the company.
+
+REGISTERED_STATE - State in which company was registered.
+
+AUTHORIZED_CAP - Authorized Capital of the company (INR)
+
+PAIDUP_CAPITAL - Paid Up Capital of the company (INR).
+
+INDUSTRIAL_CLASS - Industrial class of the company as per NIC 2004.
+
+PRINCIPAL_ BUSINESS_ACTIVITY AS PER_CIN - Principal Business Activity of the company as per CIN.
+
+REGISTERED_OFFICE _ADDRESS - Registered office address of the company.
+
+REGISTRAR_OF _COMPANIES - Registrar office of the company.
+
+EMAIL_ADDR - Email address of the companies owner/director.
+
+LATEST_YEAR _ANNUAL _RETURN - Annual return of the last year.
+
+LATEST_YEAR _FINANCIAL _STATEMENT - Financial Statement of the last year.
